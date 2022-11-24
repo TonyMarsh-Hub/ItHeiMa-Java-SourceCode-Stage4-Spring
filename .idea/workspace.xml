@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af989cde-7052-44a1-b372-82900e78103c" name="Changes" comment=":beers: add spring dependencies">
+    <list default="true" id="af989cde-7052-44a1-b372-82900e78103c" name="Changes" comment=":beers: add spring config file">
+      <change afterPath="$PROJECT_DIR$/spring-01-quickstart/src/main/java/com/itheima/App2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring-01-quickstart/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
       <recent name="$PROJECT_DIR$/spring-01-quickstart/src/main/java/com/itheima" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="com.itheima.dao" />
     </key>
   </component>
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669285339882</updated>
-      <workItem from="1669285341698" duration="1126000" />
+      <workItem from="1669285341698" duration="1444000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: begin a new project.">
       <created>1669285397941</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669286350014</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":beers: add spring config file">
+      <created>1669286482336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669286482336</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +159,8 @@
     <MESSAGE value=":memo: idea auto generated config file" />
     <MESSAGE value=":beers: add demo code" />
     <MESSAGE value=":beers: add spring dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value=":beers: add spring dependencies" />
+    <MESSAGE value=":beers: add spring config file" />
+    <option name="LAST_COMMIT_MESSAGE" value=":beers: add spring config file" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
