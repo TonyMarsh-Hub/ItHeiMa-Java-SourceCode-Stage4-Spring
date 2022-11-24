@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af989cde-7052-44a1-b372-82900e78103c" name="Changes" comment=":beers: add spring config file">
-      <change afterPath="$PROJECT_DIR$/spring-01-quickstart/src/main/java/com/itheima/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-01-quickstart/src/main/resources/applicationContext.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af989cde-7052-44a1-b372-82900e78103c" name="Changes" comment=":beers: 案例1演示：通过IOC容器获取对象" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669285339882</updated>
-      <workItem from="1669285341698" duration="1444000" />
+      <workItem from="1669285341698" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: begin a new project.">
       <created>1669285397941</created>
@@ -134,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669286482336</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=":beers: add spring config file">
+      <created>1669286907824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669286907824</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":beers: 案例1演示：通过IOC容器获取对象">
+      <created>1669286950826</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669286950826</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +172,8 @@
     <MESSAGE value=":beers: add demo code" />
     <MESSAGE value=":beers: add spring dependencies" />
     <MESSAGE value=":beers: add spring config file" />
-    <option name="LAST_COMMIT_MESSAGE" value=":beers: add spring config file" />
+    <MESSAGE value=":beers: 案例1演示：通过IOC容器获取对象" />
+    <option name="LAST_COMMIT_MESSAGE" value=":beers: 案例1演示：通过IOC容器获取对象" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
