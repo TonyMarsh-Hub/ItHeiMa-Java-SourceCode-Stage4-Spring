@@ -8,11 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_02_base_config" />
         <module name="spring_03_bean_instance" />
-        <module name="spring-01-quickstart" />
+        <module name="spring_01_quickstart" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring_01_quickstart" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
